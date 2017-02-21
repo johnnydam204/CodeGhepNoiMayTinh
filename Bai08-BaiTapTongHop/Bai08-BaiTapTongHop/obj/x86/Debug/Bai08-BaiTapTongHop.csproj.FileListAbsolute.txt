@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\bin\Debug\Bai08-BaiTapTongHop.exe
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\bin\Debug\Bai08-BaiTapTongHop.pdb
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\obj\x86\Debug\Bai08_BaiTapTongHop.radioButton2.resources
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\obj\x86\Debug\Bai08_BaiTapTongHop.Properties.Resources.resources
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\obj\x86\Debug\Bai08-BaiTapTongHop.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\obj\x86\Debug\Bai08-BaiTapTongHop.exe
+D:\Desktop\Code\Bai08-BaiTapTongHop\Bai08-BaiTapTongHop\obj\x86\Debug\Bai08-BaiTapTongHop.pdb

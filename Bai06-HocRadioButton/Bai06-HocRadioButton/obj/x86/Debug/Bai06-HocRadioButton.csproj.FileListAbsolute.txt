@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\bin\Debug\Bai06-HocRadioButton.exe
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\bin\Debug\Bai06-HocRadioButton.pdb
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\obj\x86\Debug\Bai06_HocRadioButton.Form1.resources
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\obj\x86\Debug\Bai06_HocRadioButton.Properties.Resources.resources
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\obj\x86\Debug\Bai06-HocRadioButton.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\obj\x86\Debug\Bai06-HocRadioButton.exe
+D:\Desktop\Code\Bai06-HocRadioButton\Bai06-HocRadioButton\obj\x86\Debug\Bai06-HocRadioButton.pdb

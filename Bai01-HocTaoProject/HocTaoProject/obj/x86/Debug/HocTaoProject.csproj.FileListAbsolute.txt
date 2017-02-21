@@ -1,0 +1,7 @@
+D:\Desktop\Code\HocTaoProject\HocTaoProject\bin\Debug\HocTaoProject.exe
+D:\Desktop\Code\HocTaoProject\HocTaoProject\bin\Debug\HocTaoProject.pdb
+D:\Desktop\Code\HocTaoProject\HocTaoProject\obj\x86\Debug\HocTaoProject.Form1.resources
+D:\Desktop\Code\HocTaoProject\HocTaoProject\obj\x86\Debug\HocTaoProject.Properties.Resources.resources
+D:\Desktop\Code\HocTaoProject\HocTaoProject\obj\x86\Debug\HocTaoProject.csproj.GenerateResource.Cache
+D:\Desktop\Code\HocTaoProject\HocTaoProject\obj\x86\Debug\HocTaoProject.exe
+D:\Desktop\Code\HocTaoProject\HocTaoProject\obj\x86\Debug\HocTaoProject.pdb

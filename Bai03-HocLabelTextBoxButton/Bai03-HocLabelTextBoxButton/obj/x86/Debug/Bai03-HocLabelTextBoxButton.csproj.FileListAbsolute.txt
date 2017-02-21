@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\obj\x86\Debug\Bai03_HocLabelTextBoxButton.Form1.resources
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\obj\x86\Debug\Bai03_HocLabelTextBoxButton.Properties.Resources.resources
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\obj\x86\Debug\Bai03-HocLabelTextBoxButton.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\bin\Debug\Bai03-HocLabelTextBoxButton.exe
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\bin\Debug\Bai03-HocLabelTextBoxButton.pdb
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\obj\x86\Debug\Bai03-HocLabelTextBoxButton.exe
+D:\Desktop\Code\Bai03-HocLabelTextBoxButton\Bai03-HocLabelTextBoxButton\obj\x86\Debug\Bai03-HocLabelTextBoxButton.pdb

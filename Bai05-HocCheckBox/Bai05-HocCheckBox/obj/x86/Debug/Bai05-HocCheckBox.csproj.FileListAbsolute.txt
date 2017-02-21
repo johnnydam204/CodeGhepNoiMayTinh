@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\bin\Debug\Bai05-HocCheckBox.exe
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\bin\Debug\Bai05-HocCheckBox.pdb
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\obj\x86\Debug\Bai05_HocCheckBox.Form1.resources
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\obj\x86\Debug\Bai05_HocCheckBox.Properties.Resources.resources
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\obj\x86\Debug\Bai05-HocCheckBox.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\obj\x86\Debug\Bai05-HocCheckBox.exe
+D:\Desktop\Code\Bai05-HocCheckBox\Bai05-HocCheckBox\obj\x86\Debug\Bai05-HocCheckBox.pdb

@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\bin\Debug\Bai04-OnTap-TinhTong.exe
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\bin\Debug\Bai04-OnTap-TinhTong.pdb
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\obj\x86\Debug\Bai04_OnTap_TinhTong.Form1.resources
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\obj\x86\Debug\Bai04_OnTap_TinhTong.Properties.Resources.resources
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\obj\x86\Debug\Bai04-OnTap-TinhTong.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\obj\x86\Debug\Bai04-OnTap-TinhTong.exe
+D:\Desktop\Code\Bai04-OnTap-TinhTong\Bai04-OnTap-TinhTong\obj\x86\Debug\Bai04-OnTap-TinhTong.pdb

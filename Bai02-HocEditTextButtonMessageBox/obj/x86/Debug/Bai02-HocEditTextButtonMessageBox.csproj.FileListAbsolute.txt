@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\bin\Debug\Bai02-HocEditTextButtonMessageBox.exe
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\bin\Debug\Bai02-HocEditTextButtonMessageBox.pdb
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\obj\x86\Debug\Bai02_HocEditTextButtonMessageBox.Form1.resources
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\obj\x86\Debug\Bai02_HocEditTextButtonMessageBox.Properties.Resources.resources
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\obj\x86\Debug\Bai02-HocEditTextButtonMessageBox.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\obj\x86\Debug\Bai02-HocEditTextButtonMessageBox.exe
+D:\Desktop\Code\Bai02-HocEditTextButtonMessageBox\Bai02-HocEditTextButtonMessageBox\obj\x86\Debug\Bai02-HocEditTextButtonMessageBox.pdb

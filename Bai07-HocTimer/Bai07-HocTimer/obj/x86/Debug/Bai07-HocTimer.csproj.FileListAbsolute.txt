@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\bin\Debug\Bai07-HocTimer.exe
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\bin\Debug\Bai07-HocTimer.pdb
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\obj\x86\Debug\Bai07_HocTimer.Form1.resources
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\obj\x86\Debug\Bai07_HocTimer.Properties.Resources.resources
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\obj\x86\Debug\Bai07-HocTimer.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\obj\x86\Debug\Bai07-HocTimer.exe
+D:\Desktop\Code\Bai07-HocTimer\Bai07-HocTimer\obj\x86\Debug\Bai07-HocTimer.pdb
