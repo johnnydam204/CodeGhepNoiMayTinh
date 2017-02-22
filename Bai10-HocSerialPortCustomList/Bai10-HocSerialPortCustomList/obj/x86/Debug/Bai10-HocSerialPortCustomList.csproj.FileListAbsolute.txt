@@ -1,0 +1,8 @@
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\bin\Debug\Bai10-HocSerialPortCustomList.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\bin\Debug\Bai10-HocSerialPortCustomList.pdb
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10_HocSerialPortCustomList.Form1.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10_HocSerialPortCustomList.Properties.Resources.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10-HocSerialPortCustomList.csproj.GenerateResource.Cache
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10-HocSerialPortCustomList.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10-HocSerialPortCustomList.pdb
+D:\Desktop\CodeGhepNoiMayTinh\Bai10-HocSerialPortCustomList\Bai10-HocSerialPortCustomList\obj\x86\Debug\Bai10-HocSerialPortCustomList.csprojResolveAssemblyReference.cache

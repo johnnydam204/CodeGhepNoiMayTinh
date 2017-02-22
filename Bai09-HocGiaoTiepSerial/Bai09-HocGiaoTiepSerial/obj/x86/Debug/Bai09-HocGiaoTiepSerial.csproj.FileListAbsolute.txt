@@ -1,0 +1,7 @@
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\bin\Debug\Bai09-HocGiaoTiepSerial.exe
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\bin\Debug\Bai09-HocGiaoTiepSerial.pdb
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\obj\x86\Debug\Bai09_HocGiaoTiepSerial.Form1.resources
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\obj\x86\Debug\Bai09_HocGiaoTiepSerial.Properties.Resources.resources
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\obj\x86\Debug\Bai09-HocGiaoTiepSerial.csproj.GenerateResource.Cache
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\obj\x86\Debug\Bai09-HocGiaoTiepSerial.exe
+D:\Desktop\Code\Bai09-HocGiaoTiepSerial\Bai09-HocGiaoTiepSerial\obj\x86\Debug\Bai09-HocGiaoTiepSerial.pdb
