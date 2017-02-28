@@ -1,0 +1,9 @@
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\bin\Debug\DieuKhienTextLCD.exe.config
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\bin\Debug\DieuKhienTextLCD.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\bin\Debug\DieuKhienTextLCD.pdb
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.csprojResolveAssemblyReference.cache
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.Form1.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.Properties.Resources.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.csproj.GenerateResource.Cache
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai12-DieuKhienTextLCD\Software\DieuKhienTextLCD\obj\Debug\DieuKhienTextLCD.pdb
