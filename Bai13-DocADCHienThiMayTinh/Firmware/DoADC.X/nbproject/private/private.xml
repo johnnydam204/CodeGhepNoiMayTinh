@@ -3,12 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myADC.c</file>
-            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myADC.h</file>
-            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/main.h</file>
-            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/main.c</file>
-            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myLCD.h</file>
             <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myLCD.c</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/main.h</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myLCD.h</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myADC.c</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/main.c</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myUart.c</file>
+            <file>file:/D:/Desktop/CodeGhepNoiMayTinh/Bai13-DocADCHienThiMayTinh/Firmware/DoADC.X/myADC.h</file>
         </group>
     </open-files>
 </project-private>
