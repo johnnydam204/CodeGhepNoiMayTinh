@@ -3903,6 +3903,7 @@ char uartBusy(void);
 # 9 "main.c"
 char buff[86];
 unsigned int ad;
+float voltage;
 
 void main()
 {
@@ -3914,11 +3915,14 @@ lcdPuts("DO ADC");
 while(1)
 {
 ad = adcRead(0);
+voltage = ((float)ad/1023)*5;
+
 sprintf(&buff[0],"%0.4d",ad);
 lcdGotoxy(0,2);
 lcdPuts(&buff[0]);
 uartPuts(&buff[0]);
-uartPuts("\n");
-_delay((unsigned long)((300)*(11059200/4000.0)));
+
+# 35
+_delay((unsigned long)((1000)*(11059200/4000.0)));
 }
 }

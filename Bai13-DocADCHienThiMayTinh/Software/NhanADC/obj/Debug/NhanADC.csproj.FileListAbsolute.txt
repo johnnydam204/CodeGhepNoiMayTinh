@@ -1,0 +1,9 @@
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\bin\Debug\NhanADC.exe.config
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\bin\Debug\NhanADC.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\bin\Debug\NhanADC.pdb
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.csprojResolveAssemblyReference.cache
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.Form1.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.Properties.Resources.resources
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.csproj.GenerateResource.Cache
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.exe
+D:\Desktop\CodeGhepNoiMayTinh\Bai13-DocADCHienThiMayTinh\Software\NhanADC\obj\Debug\NhanADC.pdb

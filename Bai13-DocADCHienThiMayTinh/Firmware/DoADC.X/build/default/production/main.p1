@@ -2900,65 +2900,67 @@ Version 3.2 HI-TECH Software Intermediate Code
 "10
 [v _ad `ui ~T0 @X0 1 e ]
 [; ;main.c: 10: unsigned int ad;
-"12
-[v _main `(v ~T0 @X0 1 ef ]
+"11
+[v _voltage `f ~T0 @X0 1 e ]
+[; ;main.c: 11: float voltage;
 "13
+[v _main `(v ~T0 @X0 1 ef ]
+"14
 {
-[; ;main.c: 12: void main()
-[; ;main.c: 13: {
+[; ;main.c: 13: void main()
+[; ;main.c: 14: {
 [e :U _main ]
 [f ]
-[; ;main.c: 14: lcdInit();
-"14
-[e ( _lcdInit ..  ]
-[; ;main.c: 15: uartOpen();
+[; ;main.c: 15: lcdInit();
 "15
-[e ( _uartOpen ..  ]
-[; ;main.c: 16: adcInit();
+[e ( _lcdInit ..  ]
+[; ;main.c: 16: uartOpen();
 "16
+[e ( _uartOpen ..  ]
+[; ;main.c: 17: adcInit();
+"17
 [e ( _adcInit ..  ]
-[; ;main.c: 18: lcdPuts("DO ADC");
-"18
-[e ( _lcdPuts (1 -> :s 1C `*uc ]
-[; ;main.c: 19: while(1)
+[; ;main.c: 19: lcdPuts("DO ADC");
 "19
-[e :U 279 ]
-[; ;main.c: 20: {
+[e ( _lcdPuts (1 -> :s 1C `*uc ]
+[; ;main.c: 20: while(1)
 "20
-{
-[; ;main.c: 21: ad = adcRead(0);
+[e :U 279 ]
+[; ;main.c: 21: {
 "21
-[e = _ad ( _adcRead (1 -> -> 0 `i `uc ]
-[; ;main.c: 22: sprintf(&buff[0],"%0.4d",ad);
+{
+[; ;main.c: 22: ad = adcRead(0);
 "22
-[e ( _sprintf (1 , (. , &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux :s 2C _ad ]
-[; ;main.c: 23: lcdGotoxy(0,2);
+[e = _ad ( _adcRead (1 -> -> 0 `i `uc ]
+[; ;main.c: 23: voltage = ((float)ad/1023)*5;
 "23
-[e ( _lcdGotoxy (2 , -> -> 0 `i `uc -> -> 2 `i `uc ]
-[; ;main.c: 24: lcdPuts(&buff[0]);
-"24
-[e ( _lcdPuts (1 &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux ]
-[; ;main.c: 25: uartPuts(&buff[0]);
+[e = _voltage * / -> _ad `f -> -> 1023 `i `f -> -> 5 `i `f ]
+[; ;main.c: 25: sprintf(&buff[0],"%0.4d",ad);
 "25
-[e ( _uartPuts (1 &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux ]
-[; ;main.c: 26: uartPuts("\n");
+[e ( _sprintf (1 , (. , &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux :s 2C _ad ]
+[; ;main.c: 26: lcdGotoxy(0,2);
 "26
-[e ( _uartPuts (1 -> :s 3C `*uc ]
-[; ;main.c: 27: _delay((unsigned long)((300)*(11059200/4000.0)));
+[e ( _lcdGotoxy (2 , -> -> 0 `i `uc -> -> 2 `i `uc ]
+[; ;main.c: 27: lcdPuts(&buff[0]);
 "27
-[e ( __delay (1 -> * -> -> 300 `i `d / -> -> 11059200 `l `d .4000.0 `ul ]
+[e ( _lcdPuts (1 &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux ]
+[; ;main.c: 28: uartPuts(&buff[0]);
 "28
+[e ( _uartPuts (1 &U *U + &U _buff * -> -> -> 0 `i `ui `ux -> -> # *U &U _buff `ui `ux ]
+[; ;main.c: 35: _delay((unsigned long)((1000)*(11059200/4000.0)));
+"35
+[e ( __delay (1 -> * -> -> 1000 `i `d / -> -> 11059200 `l `d .4000.0 `ul ]
+"36
 }
 [e :U 278 ]
-"19
+"20
 [e $U 279  ]
 [e :U 280 ]
-[; ;main.c: 28: }
-[; ;main.c: 29: }
-"29
+[; ;main.c: 36: }
+[; ;main.c: 37: }
+"37
 [e :UE 277 ]
 }
 [p f _sprintf 8454276 ]
 [a 2C 37 48 46 52 100 0 ]
 [a 1C 68 79 32 65 68 67 0 ]
-[a 3C 10 0 ]
