@@ -26,13 +26,13 @@ namespace NhanADC
         }
 
         // Truyền Item được chọn trong cboBaud gán vào tốc độ của cổng COM
-        private void cboBaud_SelectedIndexChanged(object sender, EventArgs e)
+        private void CboBaud_SelectedIndexChanged(object sender, EventArgs e)
         {
             seriCOM.BaudRate = int.Parse(cboBaud.SelectedItem.ToString());
         }
 
         // Xử lý sự kiện khi nút nhấn btnConnect được nhấn
-        private void btnConnect_Click(object sender, EventArgs e)
+        private void BtnConnect_Click(object sender, EventArgs e)
         {
             try
             {

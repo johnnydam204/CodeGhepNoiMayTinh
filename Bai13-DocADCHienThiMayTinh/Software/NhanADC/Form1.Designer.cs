@@ -96,7 +96,7 @@
             this.cboBaud.Size = new System.Drawing.Size(100, 27);
             this.cboBaud.TabIndex = 3;
             this.cboBaud.SelectedIndex = 4;
-            this.cboBaud.SelectedIndexChanged += new System.EventHandler(this.cboBaud_SelectedIndexChanged);
+            this.cboBaud.SelectedIndexChanged += new System.EventHandler(this.CboBaud_SelectedIndexChanged);
             // 
             // label2
             // 
@@ -117,7 +117,7 @@
             this.btnConnect.TabIndex = 4;
             this.btnConnect.Text = "CONNECT";
             this.btnConnect.UseVisualStyleBackColor = true;
-            this.btnConnect.Click += new System.EventHandler(this.btnConnect_Click);
+            this.btnConnect.Click += new System.EventHandler(this.BtnConnect_Click);
             // 
             // label3
             // 
